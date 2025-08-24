@@ -53,6 +53,24 @@ const Team = () => {
           <p>142301021@smail.iitpkd.ac.in</p>
           {/* <p>Contact: 7207109366</p> */}
         </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Banavath Krishnudu</h3>
+          <p>132402005@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Aparna K V</h3>
+          <p>202405004@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Vaishnavi</h3>
+          <p>202405017@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
       </div>
 
       <h2>Correspondents</h2>
@@ -77,7 +95,7 @@ const Team = () => {
         </div>
         <div className="team-member">
           {/* <p className="role">Developer</p> */}
-          <h3>M.Ruthvi</h3>
+          <h3>M Ruthvi</h3>
           <p>142301021@smail.iitpkd.ac.in</p>
           {/* <p>Contact: 7207109366</p> */}
         </div>
@@ -93,7 +111,7 @@ const Team = () => {
       <h2>WebOps Coordinators</h2>
       <div className="team-grid">
       <div className="team-member">
-          {/* <p className="role">Developer</p> */}
+          <p className="role">WebOps Head</p>
           <h3>Simeon Kandan Sonar</h3>
           <p>112301031@smail.iitpkd.ac.in</p>
         </div>
@@ -117,6 +135,21 @@ const Team = () => {
           <h3>Abhishek Iyer</h3>
           <p>112401002@smail.iitpkd.ac.in</p>
         </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Monish Reddy</h3>
+          <p>122301007@smail.iitpkd.ac.in</p>
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Patmadhar Giyary</h3>
+          <p>122501025@smail.iitpkd.ac.in</p>
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Reehan Joseph Mathews</h3>
+          <p>112501027@smail.iitpkd.ac.in</p>
+        </div>
       </div>
 
       <h2>Design & Social Media Team</h2>
@@ -129,14 +162,20 @@ const Team = () => {
         </div>
         <div className="team-member">
           {/* <p className="role">Developer</p> */}
-          <h3>Banavath krishnudu</h3>
-          <p>132402005@smail.iitpkd.ac.in</p>
+          <h3>Harekh Heera</h3>
+          <p>132512003@smail.iitpkd.ac.in</p>
           {/* <p>Contact: 7207109366</p> */}
         </div>
         <div className="team-member">
           {/* <p className="role">Developer</p> */}
           <h3>P Santosh</h3>
           <p>112401025@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Peeyush Mahawar</h3>
+          <p>132501031@smail.iitpkd.ac.in</p>
           {/* <p>Contact: 7207109366</p> */}
         </div>
       </div>
@@ -159,6 +198,18 @@ const Team = () => {
           {/* <p className="role">Developer</p> */}
           <h3>G Abhiram Reddy</h3>
           <p>122301014@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>E Hrushikeshav</h3>
+          <p>122301010@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Thrinath Pureti</h3>
+          <p>122501027@smail.iitpkd.ac.in</p>
           {/* <p>Contact: 7207109366</p> */}
         </div>
       </div>
