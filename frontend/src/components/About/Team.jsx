@@ -142,7 +142,7 @@ const Team = () => {
         </div>
         <div className="team-member">
           {/* <p className="role">Developer</p> */}
-          <h3>Patmadhar Giyary</h3>
+          <h3>Patmadhar Goyary</h3>
           <p>122501025@smail.iitpkd.ac.in</p>
         </div>
         <div className="team-member">
@@ -176,6 +176,12 @@ const Team = () => {
           {/* <p className="role">Developer</p> */}
           <h3>Peeyush Mahawar</h3>
           <p>132501031@smail.iitpkd.ac.in</p>
+          {/* <p>Contact: 7207109366</p> */}
+        </div>
+        <div className="team-member">
+          {/* <p className="role">Developer</p> */}
+          <h3>Madhu Charan</h3>
+          <p>132401010@smail.iitpkd.ac.in</p>
           {/* <p>Contact: 7207109366</p> */}
         </div>
       </div>
