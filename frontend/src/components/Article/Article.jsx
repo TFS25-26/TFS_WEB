@@ -92,7 +92,7 @@ const Article = () => {
                 )}
 
                 <div className='rect-art-card-text'>
-                    <p>{article.description}</p> 
+                    <p>{article.description}</p>  
                 </div>
 
                 <div className='rect-author-container'>

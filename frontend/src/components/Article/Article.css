@@ -87,7 +87,6 @@
 
 .rect-art-card-text {
     font-size: 1.3em;
-    white-space: pre-wrap;
     font-family: "Oswald", "Arial Narrow", Arial, sans-serif;
 }
 
@@ -196,7 +195,7 @@
 
 @media (max-width: 480px) {
     .rect-art-card-text {
-        /* max-height: calc(1.21em * 15); */
+        max-height: calc(1.21em * 15);
         overflow-y: auto;
         padding-right: 0.15em;
     }
