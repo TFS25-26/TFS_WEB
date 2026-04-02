@@ -234,8 +234,32 @@
     "videourl": "https://youtu.be/KDFkVu4_-N0?si=G38mMWtgGRNqi6r2",
     "description": "In this episode of TFSIITPKD’s podcast series, the spotlight turns toward the passionate minds behind GC 2.0 – the General Championship 2025 at IIT Palakkad. Hosted in a laid-back, conversational format, the podcast dives deep into the planning, challenges, and creative brainstorming that shaped this year's edition of the championship. The organizers open up about the extensive groundwork laid months in advance—from ideation to execution—shedding light on how they envisioned a revamped GC experience. Listeners are offered a rare behind-the-scenes glimpse into the dedication and team spirit that drive such large-scale student events. As the discussion unfolds, the organizers delve into what made GC 2.0 different from its predecessor. They highlight new event categories, improved scheduling, inclusivity-focused changes, and efforts to boost inter-hostel engagement. With anecdotes, light-hearted moments, and even a few unfiltered confessions, the podcast captures the human side of organizing—dealing with last-minute chaos, sleepless nights, and the thrill of watching ideas come to life. The conversation also touches upon the role of feedback from GC 1.0 and how it influenced changes this year, making it more vibrant and accessible for everyone involved. The episode concludes with reflections on the impact the General Championship has on student culture at IITPKD. The organizers express hope that GC 2.0 not only builds competitive spirit but also fosters a sense of belonging, creativity, and collaboration across all batches. They also drop a few teasers about upcoming surprises and their aspirations for future editions. Whether you’re a participant, an organizer, or just someone curious about campus life, this podcast is a must-listen—rich with insight, energy, and the essence of student-driven leadership."
   },
+
   {
     "id": 23 ,
+    "type": "article",
+    "heading": "From Idea to Reality: Campus Snacks Vending Machine Story",
+    "date": "August, 2025",
+    "author": "Hemanth Kashyap",
+    "slider" : 1,
+    "imageurl": "/images/vending-machine-story.webp",
+    "videourl": "https://youtu.be/vYGLrW3tuuQ?si=EsEO5-QRYVOXy54X",
+    "description": "In this video, the former General Secretary, Karthikeya B, speaks with our correspondent Hemanth Kashyap Gundamaraju about the story of the campus snacks vending machine. They speak about the source of the initial idea, the dangers of promoting unhealthy eating cultures, and the large amount of paperwork and logistics involved in setting up vending machines throughout the campus. The former general secretary also shares his thoughts on the delay in implementing the vending machines and the upkeep and maintenance required to keep them running smoothly. He also discusses the possibility of adding additional menu items and taking student suggestions for potential menu items."
+  },
+
+  {
+    "id": 24 ,
+    "type": "article",
+    "heading": "Placement & Internship Survey: Key Insights and Observations",
+    "date": "December, 2025",
+    "author": "A Subhash",
+    "slider" : 1,
+    "imageurl": "/images/placement_internship_survey_2024_25.webp",
+    "docurl" : "https://drive.google.com/file/d/17vtKp_K6tPh_2UntzwbPh44OOrBws5EK/preview",
+    "description": "This Placement and Internship Survey Report presents a comprehensive overview of the placement and internship outcomes for the graduating batch of 2024–2025. The survey consolidates responses from students across BTech, MTech, and MSc programs, providing insights into participation levels, placement outcomes, student perceptions, and preparation patterns related to placements and internships. \n \n The findings indicate that a large proportion of students actively engaged in on-campus and off-campus placement and internship drives, with many securing offers through institutional channels as well as external platforms such as LinkedIn and referrals. At the same time, the survey reflects variations in opportunities and outcomes across different branches and programs, highlighting differences in availability of roles, internship options, and company participation. \n \n Student responses also reveal mixed levels of satisfaction with placement and internship outcomes. While several students expressed satisfaction with their offers, others reported gaps between expectations and actual outcomes, particularly with respect to role alignment, compensation, and the number of opportunities available during the placement season. Internship experiences showed similar trends, with some branches reporting limited exposure to industry-oriented opportunities. \n \n The survey further underscores the importance of academic performance alongside skill development in the placement process. Although CGPA is generally perceived as an important factor for eligibility and shortlisting, many students emphasized that practical skills, projects, internships, and additional coursework play a crucial role in securing opportunities. Several respondents indicated the need to supplement the academic curriculum with external courses and hands-on projects to better meet industry expectations. \n \n Overall, this report serves as a reflective and informative resource for students, faculty, and placement stakeholders. By capturing student experiences and perspectives, the survey aims to support informed decision-making, improve preparation strategies for future batches, and contribute toward strengthening the placement and internship ecosystem across all programs."
+  },
+  {
+    "id": 25 ,
     "type": "article",
     "heading": "Review of SAC Manifestos",
     "subheading": "Review of SAC Manifestos",

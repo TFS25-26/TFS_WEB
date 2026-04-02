@@ -69,7 +69,13 @@ const Article = () => {
                     </ul>
                 </header>
 
-                {article.videourl ? (
+                { article.docurl ? (
+                    <iframe 
+                        className="rect-art-card-doc" 
+                        src={article.docurl} 
+                        type="application/pdf" 
+                    />
+                ) : article.videourl ? (
                     <iframe
                         className="rect-art-card-video"
                         src={article.videourl.replace("youtu.be/", "www.youtube-nocookie.com/embed/").split("?")[0]}
@@ -86,7 +92,7 @@ const Article = () => {
                 )}
 
                 <div className='rect-art-card-text'>
-                    <p>{article.description}</p>  
+                    <p>{article.description}</p> 
                 </div>
 
                 <div className='rect-author-container'>
